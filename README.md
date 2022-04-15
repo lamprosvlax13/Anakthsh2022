@@ -1,6 +1,6 @@
 # Anakthsh2022
 anakthsh plhroforias 
-
+#link https://github.com/lamprosvlax13/Anakthsh2022.git
 Τα αρχεία της συλλογής(.csv) με την οποία θα ασχοληθούμε έχουν την παρακάτω μορφή
 
 show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description χωρισμένα με κόματα . Αξίζει να σημειωθεί ότι για κάθε εγγραφή δεν υπάρχουν όλα τα χαρακτηριστικά .
