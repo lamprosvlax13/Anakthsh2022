@@ -1,0 +1,9 @@
+harry
+ car
+cars
+car
+harry potter
+all:harry potter
+countryu:harry potter
+countryu:Greece
+Greece
